@@ -1,4 +1,4 @@
-Rules of Hooks
+<h1>Rules of hooks</h1>
 
 There are two main rules to keep in mind when using Hooks:
 
